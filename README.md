@@ -22,9 +22,3 @@ This Python script implements a Graphical User Interface (GUI) for managing file
 
 #### Contributing
 Contributions to the project are welcome! Feel free to suggest enhancements, report bugs, or contribute code improvements via pull requests or by opening issues.
-
-#### Author
-This GUI file management system was developed by [Your Name] ([Your GitHub Profile](link)), [Your Email], [Your Organization].
-
-#### License
-This project is licensed under the [License Name] License. See the [LICENSE](link) file for details.
