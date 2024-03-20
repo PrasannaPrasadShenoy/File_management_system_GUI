@@ -3,6 +3,9 @@
 #### Overview
 This Python script implements a Graphical User Interface (GUI) for managing files on a Linux system. It offers various functionalities such as creating, deleting, copying, moving, writing to, analyzing, executing, and changing the mode of files. Users can interact with the system through intuitive buttons and dialogs.
 
+#### Description
+This Python script implements a GUI file management system, providing convenient file manipulation options. From creating new files to analyzing existing ones, users can efficiently handle their files without relying solely on command-line operations. The interface simplifies common file tasks and enhances user experience on Linux platforms.
+
 #### Features
 1. **Create File**: Allows users to create a new text file and specify the filename and location.
 2. **Delete File**: Enables users to delete an existing file from the system.
